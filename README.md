@@ -50,7 +50,9 @@ public class idleCrouch : MonoBehaviour
 ~~~
 ## Output:
 
+![image](https://github.com/21005984/Animator/assets/94748389/844f135a-c7b9-4921-a57b-e7c25bc3ec82)
 
 
 
 ## Result:
+Thus, the animator was successfully developed in unity engine with the C#.
